@@ -15,6 +15,7 @@ TP2 - 2 hours
 - Discretize and implement the equations
 - Add input current to the system
 - Decision making:  Speed and accuracy tradeoff
+- Winner takes all
 Goal:  How to interpret firing rates of a large number of neurons.
 
 TP3 - 3 hours + 1 hour kickoff project
