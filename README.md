@@ -7,6 +7,7 @@ TP1 - 2 hours
 - Try different input currents
 
 -> Looking at one neuron is good but how can we try to understand behaviour based on a large amount of neurons . 
+
 TP2 - 2 hours
 - Computes the firing rate + ISI (and histograms)
 - Produce Raster plots
@@ -21,7 +22,7 @@ TP3 - 2 hours
 - Winner takes all
 Goal:  How to interpret firing rates of a large number of neurons.
 
-TP3 - 2 hours + kickoff project
+TP4 - 2 hours + kickoff project
 - Model formulation
 - Cost function 
 - Control
