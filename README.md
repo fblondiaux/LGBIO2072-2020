@@ -27,6 +27,8 @@ TP4 - 2 hours + kickoff project
 - Cost function 
 - Control
 - Kalman
+
+
 Goal: Have the intuition for the LQG and kick off for the project
 
 
