@@ -39,6 +39,5 @@ To open this in colab :
 | - | --- | ---- |
 | Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fblondiaux/LGBIO2072-2020/blob/master/LGBIO2072_TP1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/fblondiaux/LGBIO2072-2020/blob/master/LGBIO2072_TP1.ipynb) |
  Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fblondiaux/LGBIO2072-2020/blob/master/LGBIO2072_TP2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/fblondiaux/LGBIO2072-2020/blob/master/LGBIO2072_TP2.ipynb)
-======= |
-=======
+ Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fblondiaux/LGBIO2072-2020/blob/master/LGBIO2072_TP3.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/fblondiaux/LGBIO2072-2020/blob/master/LGBIO2072_TP3.ipynb)
 
